@@ -1,0 +1,10 @@
+Qty,partname,description,lib
+0,"ADS1298","","ads1298"
+0,"C","Unpolarized capacitor","device"
+0,"CONN_01X16","Connector 01x16","conn"
+0,"GS2","","conn"
+0,"INDUCTOR","","device"
+0,"R","Resistor","device"
+0,"SC70_OPAMP","","holter-cache"
+0,"TLV61220","","holter-cache"
+0,"TS5A3159","","holter-cache"
