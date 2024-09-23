@@ -2,7 +2,7 @@
 # Mobile ECG Project
 
 ### Supervisor:
-- Dr. Shahid Khattak
+-Prof. Dr. Shahid Khattak
 
 ### Team Members:
 - Abdul Hameed
