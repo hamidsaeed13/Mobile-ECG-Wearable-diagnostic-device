@@ -1,0 +1,20 @@
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.exe
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.pdb
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.xml
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.frmGraph.resources
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.Resources.resources
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.exe
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.xml
+C:\DATA\Temp\MSDN Gallery\DynamicGraphVBApp\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.pdb
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.exe
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.xml
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.pdb
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.exe
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.pdb
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\bin\Debug\DynamicGraphVBApp.xml
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.frmGraph.resources
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.Resources.resources
+C:\Users\hamid\Desktop\VB\DynamicGraphVBApp\obj\x86\Debug\DynamicGraphVBApp.vbproj.GenerateResource.Cache
