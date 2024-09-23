@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:ap="http://schemas.android.com/apk/res-auto"
+    tools:context="com.killer.mobileecg.MainActivity">
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/name"
+        android:gravity="top"
+        android:focusable="true"
+        android:enabled="true"
+        android:visibility="visible" />
+
+
+    <com.androidplot.xy.XYPlot
+
+        style="@style/APDefacto.Light"
+        android:id="@+id/plot"
+        android:layout_margin="0dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        ap:renderMode="use_background_thread"
+        android:paddingTop="50dp"
+        ap:title="ECG Model"
+        ap:rangeTitle="range"
+        ap:domainTitle="domain"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_navigation_drawer_inbox"
+            android:title="Notification" />
+        <item
+            android:id="@+id/item_navigation_drawer_starred"
+            android:title="Add New" />
+        <item
+            android:id="@+id/item_navigation_drawer_sent_mail"
+            android:title="Find Doctor" />
+        <item
+            android:id="@+id/item_navigation_drawer_drafts"
+            android:title="Doctor to Doctor" />
+    </group>
+
+    <item android:title="Patient">
+        <menu>
+    <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/item_navigation_drawer_settings"
+                android:title="History" />
+            <item
+                android:id="@+id/item_navigation_drawer_help_and_feedback"
+                android:title="Log Maintainance" />
+        </group>
+        </menu>
+    </item>
+
+</menu>
